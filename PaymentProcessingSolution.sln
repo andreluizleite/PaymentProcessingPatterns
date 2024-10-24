@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentProcessing", "PaymentProcessing\PaymentProcessing.csproj", "{20285943-0D64-42B0-9D0E-F7F366D8DBF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentServices", "PaymentServices\PaymentServices.csproj", "{CAA6FAA8-AA9F-4AB7-99A9-A77A099826D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20285943-0D64-42B0-9D0E-F7F366D8DBF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20285943-0D64-42B0-9D0E-F7F366D8DBF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20285943-0D64-42B0-9D0E-F7F366D8DBF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20285943-0D64-42B0-9D0E-F7F366D8DBF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAA6FAA8-AA9F-4AB7-99A9-A77A099826D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAA6FAA8-AA9F-4AB7-99A9-A77A099826D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAA6FAA8-AA9F-4AB7-99A9-A77A099826D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAA6FAA8-AA9F-4AB7-99A9-A77A099826D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
