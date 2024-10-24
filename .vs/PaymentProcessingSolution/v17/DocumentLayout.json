@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\source\\repos\\PaymentProcessingPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA6FAA8-AA9F-4AB7-99A9-A77A099826D2}|PaymentServices\\PaymentServices.csproj|c:\\users\\andre\\source\\repos\\paymentprocessingpatterns\\paymentservices\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA6FAA8-AA9F-4AB7-99A9-A77A099826D2}|PaymentServices\\PaymentServices.csproj|solutionrelative:paymentservices\\kafkaproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA6FAA8-AA9F-4AB7-99A9-A77A099826D2}|PaymentServices\\PaymentServices.csproj|c:\\users\\andre\\source\\repos\\paymentprocessingpatterns\\paymentservices\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA6FAA8-AA9F-4AB7-99A9-A77A099826D2}|PaymentServices\\PaymentServices.csproj|solutionrelative:paymentservices\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20285943-0D64-42B0-9D0E-F7F366D8DBF3}|PaymentProcessing\\PaymentProcessing.csproj|c:\\users\\andre\\source\\repos\\paymentprocessingpatterns\\paymentprocessing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20285943-0D64-42B0-9D0E-F7F366D8DBF3}|PaymentProcessing\\PaymentProcessing.csproj|solutionrelative:paymentprocessing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA6FAA8-AA9F-4AB7-99A9-A77A099826D2}|PaymentServices\\PaymentServices.csproj|c:\\users\\andre\\source\\repos\\paymentprocessingpatterns\\paymentservices\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAA6FAA8-AA9F-4AB7-99A9-A77A099826D2}|PaymentServices\\PaymentServices.csproj|solutionrelative:paymentservices\\paymentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAA6FAA8-AA9F-4AB7-99A9-A77A099826D2}|PaymentServices\\PaymentServices.csproj|c:\\users\\andre\\source\\repos\\paymentprocessingpatterns\\paymentservices\\paymentservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CAA6FAA8-AA9F-4AB7-99A9-A77A099826D2}|PaymentServices\\PaymentServices.csproj|solutionrelative:paymentservices\\paymentservices.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PaymentServices",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\PaymentProcessingPatterns\\PaymentServices\\PaymentServices.csproj",
+              "RelativeDocumentMoniker": "PaymentServices\\PaymentServices.csproj",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\PaymentProcessingPatterns\\PaymentServices\\PaymentServices.csproj",
+              "RelativeToolTip": "PaymentServices\\PaymentServices.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-24T18:19:16.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\PaymentProcessingPatterns\\PaymentServices\\TransactionService.cs",
+              "RelativeDocumentMoniker": "PaymentServices\\TransactionService.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\PaymentProcessingPatterns\\PaymentServices\\TransactionService.cs",
+              "RelativeToolTip": "PaymentServices\\TransactionService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwA8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:10:28.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\PaymentProcessingPatterns\\PaymentServices\\PaymentService.cs",
+              "RelativeDocumentMoniker": "PaymentServices\\PaymentService.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\PaymentProcessingPatterns\\PaymentServices\\PaymentService.cs",
+              "RelativeToolTip": "PaymentServices\\PaymentService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:10:24.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KafkaProducer.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\PaymentProcessingPatterns\\PaymentServices\\KafkaProducer.cs",
+              "RelativeDocumentMoniker": "PaymentServices\\KafkaProducer.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\PaymentProcessingPatterns\\PaymentServices\\KafkaProducer.cs",
+              "RelativeToolTip": "PaymentServices\\KafkaProducer.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAvwCIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T18:10:18.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\PaymentProcessingPatterns\\PaymentProcessing\\Program.cs",
+              "RelativeDocumentMoniker": "PaymentProcessing\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\PaymentProcessingPatterns\\PaymentProcessing\\Program.cs",
+              "RelativeToolTip": "PaymentProcessing\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T17:54:03.713Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
